@@ -1,6 +1,6 @@
 Name:		texlive-clistmap
 Version:	61811
-Release:	1
+Release:	2
 Summary:	Map and iterate over LaTeX3 clists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clistmap
