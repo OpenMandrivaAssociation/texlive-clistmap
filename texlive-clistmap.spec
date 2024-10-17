@@ -3,7 +3,7 @@ Version:	61811
 Release:	2
 Summary:	Map and iterate over LaTeX3 clists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/clistmap
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/clistmap
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clistmap.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/clistmap.doc.r%{version}.tar.xz
